@@ -5,8 +5,7 @@ const Category = require("../models/category.js");
 
 // Script Explanation 
 console.log(
-    "This script populates categories and items to your database. " +
-    "Specify the database as an argument - e.g., node populateDB <db_uri>"
+    "This script populates categories and items to your database. "
   );
 
 // Connection String
